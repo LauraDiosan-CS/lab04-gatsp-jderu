@@ -1,0 +1,5 @@
+Fitness of best chromosome:13
+0: 0
+1: 3
+2: 2
+3: 1
